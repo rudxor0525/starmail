@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>악성메일 의심 안내</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin:0;padding:0;background-color:#f5f5f5;font-family:'Malgun Gothic','Dotum',sans-serif;font-size:14px;color:#333333;">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width:720px;margin:40px auto;border:1px solid #dddddd;background-color:#ffffff;">
+        <!-- 헤더 -->
+        <tr>
+            <td style="background-color:#2DB400;color:#ffffff;padding:16px 24px;font-size:18px;font-weight:bold;">
+                악성메일 의심 경고
+            </td>
+        </tr>
+
+        <!-- 본문 -->
+        <tr>
+            <td style="padding:24px 24px 16px 24px;">
+                <p style="margin:0 0 12px 0;font-size:15px;font-weight:bold;color:#d9534f;">
+                    방금 확인한 메일은 악성메일 모의훈련용 메일입니다.
+                </p>
+                <p style="margin:0 0 20px 0;line-height:1.7;">
+                    실제 공격 상황을 가정한 모의훈련으로, 사용자의 보안 인식 제고와
+                    의심스러운 메일 식별 능력을 향상시키기 위한 목적입니다.
+                    링크를 클릭한 사실은 교육·훈련 목적 이외의 용도로 사용되지 않습니다.
+                </p>
+
+                <hr style="border:none;border-top:1px solid #eeeeee;margin:16px 0;">
+
+                <p style="margin:0 0 10px 0;font-size:15px;font-weight:bold;">
+                    악성메일을 의심해야 하는 대표적인 특징
+                </p>
+                <ul style="margin:0 0 18px 18px;padding:0;line-height:1.7;">
+                    <li>발신자 주소가 실제 회사 도메인과 유사하지만 정확히 일치하지 않음.</li>
+                    <li>비정상적인 메일 제목이나 긴급성을 강조하는 문구가 포함됨.</li>
+                    <li>비밀번호 입력, 계정 재인증, 결제 정보 입력 등을 요구하는 링크가 포함됨.</li>
+                    <li>첨부파일 실행을 유도하거나, 매크로 활성화를 요구하는 문서가 포함됨.</li>
+                </ul>
+
+                <p style="margin:0 0 10px 0;font-size:15px;font-weight:bold;">
+                    의심되는 메일을 받았을 때 반드시 지켜야 할 사항
+                </p>
+                <ul style="margin:0 0 18px 18px;padding:0;line-height:1.7;">
+                    <li>모르는 발신자, 또는 내용이 부자연스러운 메일의 링크와 첨부파일은 열지 않는다.</li>
+                    <li>회사 계정 비밀번호를 메일 링크를 통해 입력하지 않는다.</li>
+                    <li>의심스러운 메일을 받으면 즉시 보안 담당자 또는 헬프데스크에 신고한다.</li>
+                    <li>“삭제”하기 전에 스크린샷이나 헤더 정보를 함께 전달해 분석에 도움이 되도록 한다.</li>
+                </ul>
+
+                <p style="margin:0 0 10px 0;font-size:15px;font-weight:bold;">
+                    올바른 대응 예시
+                </p>
+                <ul style="margin:0 0 18px 18px;padding:0;line-height:1.7;">
+                    <li>메일 내용이 평소와 다르거나 요구 사항이 이상하면 상급자 또는 보안팀에 문의한다.</li>
+                    <li>사내 포털·북마크를 통해 직접 접속하여 실제 공지 여부를 확인한다.</li>
+                    <li>의심 메일은 “스팸 신고” 또는 “피싱 신고” 기능을 활용해 차단한다.</li>
+                </ul>
+
+                <p style="margin:0 0 20px 0;line-height:1.7;">
+                    이번 훈련 결과는 향후 보안 교육과 시스템 개선에 참고 자료로 활용될 예정입니다.
+                    일상적인 업무 중에도 항상 메일 발신자, 링크 주소, 첨부파일 여부를
+                    한 번 더 확인하는 습관을 가져주시기 바랍니다.
+                </p>
+            </td>
+        </tr>
+
+        <!-- 푸터 -->
+        <tr>
+            <td style="background-color:#f5f5f5;padding:14px 24px;font-size:12px;color:#888888;text-align:center;">
+                Security Awareness Training Page
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
